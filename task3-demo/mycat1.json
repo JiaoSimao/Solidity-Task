@@ -1,0 +1,16 @@
+{
+	"name": "HuaJuan",
+	"description": "花卷",
+    "external_url": "https://openseacreatures.io/3",
+	"image": "https://flexible-beige-felidae.myfilebase.com/ipfs/QmXoubuUVeyU6ePeu6WjFpnPvHvPsHixRHLFgLcCtqgRHm",
+	"attributes": [
+		{
+			"trait_type": "Breed",
+			"value": "Muppet"
+		},
+        {
+            "trait_type": "temperature",
+            "value": "average"
+        }
+	]
+}
